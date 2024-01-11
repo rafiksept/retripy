@@ -1,2 +1,2 @@
 # retripy
-Library Python for Information Retrieval
+Python Library for Information Retrieval
